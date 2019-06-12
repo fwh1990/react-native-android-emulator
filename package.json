@@ -1,6 +1,6 @@
 {
   "name": "react-native-android-emulator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "src/index.ts",
   "repository": "git@github.com:fwh1990/react-native-android-emulator.git",
   "author": "范文华 <531362022@qq.com>",
